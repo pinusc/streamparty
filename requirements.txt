@@ -66,7 +66,7 @@ py==1.8.1
 pycairo==1.19.1
 pycups==1.9.74
 pycurl==7.43.0.5
-Pygments==2.6.1
+Pygments==2.7.4
 PyGObject==3.36.0
 pyinotify==0.9.6
 pylint==2.4.4
